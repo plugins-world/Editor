@@ -1,0 +1,18 @@
+{
+    "fskey": "Editor",
+    "type": 1,
+    "name": "Editor",
+    "description": "Editor plugin made by mouyong",
+    "author": "Fresns",
+    "authorLink": "https://plugins-world.cn",
+    "version": "1.0.0",
+    "scene": [],
+    "accessPath": "",
+    "settingsPath": null,
+    "providers": [
+        "Plugins\\Editor\\Providers\\EditorServiceProvider",
+        "Plugins\\Editor\\Providers\\ExceptionServiceProvider"
+    ],
+    "autoloadFiles": [],
+    "aliases": []
+}
